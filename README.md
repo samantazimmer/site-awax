@@ -1,4 +1,4 @@
-#Site Awax
+Site Awax
 
 Este site foi meticulosamente desenvolvido em prol de testes para explorar técnicas avançadas de HTML e CSS. O objetivo é proporcionar uma experiência moderna e cativante para o usuário, buscando constantemente inovações que elevem o padrão de design na web. Desde layouts responsivos até animações fluidas, estando comprometido em oferecer uma experiência excepcional que reflita as tendências mais recentes do design digital.
 
