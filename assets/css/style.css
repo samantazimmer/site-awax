@@ -456,3 +456,19 @@ header {
     margin: 10px auto;
     display: flex;
 }
+
+.default.light.bg-white {
+    max-width: 100%; /* Para garantir que as imagens não ultrapassem o contêiner */
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px; /* Para manter a proporção da imagem */
+}
+
+.section-logo-area {
+    border-top: 1px solid gainsboro;
+    border-bottom: 1px solid gainsboro;
+    width: 100vw;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+}
