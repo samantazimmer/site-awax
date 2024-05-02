@@ -10,3 +10,5 @@ Este site foi meticulosamente desenvolvido em prol de testes para explorar técn
 ![3](https://github.com/samantazimmer/site-awax/assets/95974603/3f7d74b9-ef21-4bdb-abe9-649d2a59aace)
 
 ![4](https://github.com/samantazimmer/site-awax/assets/95974603/1b9b5abc-c8d1-487d-ab36-a39344ea28c5)
+
+![5](https://github.com/samantazimmer/site-awax/assets/95974603/48c14800-ff95-4960-ae80-12cff41a8e3b)
